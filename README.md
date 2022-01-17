@@ -59,3 +59,11 @@ Here are some ideas to get you started:
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
+
+---
+
+### <p align="center">GitHub Stats</p>
+#### Personal Account
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=usmanabdurrehman&hide_border=true&theme=tokyonight" width="42%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=usmanabdurrehman&show_icons=true&hide_border=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR,CONTRIBUTOR&hide=issues&theme=tokyonight" width="48%" >
+
