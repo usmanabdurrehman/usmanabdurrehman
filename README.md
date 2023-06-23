@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 
-### Full-Stack Developer | Machine Learning Enthusiast
+### Frontend Developer | Machine Learning Enthusiast
 
 - 🔭 Working on a [UI Components library](https://upstate-ui.netlify.app)!
 - 🌱 Trying to become an Expert in Full Stack development
